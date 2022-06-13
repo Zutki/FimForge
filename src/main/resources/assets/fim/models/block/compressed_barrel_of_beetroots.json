@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "fim:block/compressed_barrel_of_beetroots_top",
+    "bottom": "fim:block/compressed_barrel_bottom",
+    "side": "fim:block/compressed_barrel_side"
+  }
+}

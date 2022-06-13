@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "result": {
+    "item": "fim:compressed_hay"
+  }
+}

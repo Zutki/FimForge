@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fim:block/compressed_hay_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fim:block/compressed_hay"
+    },
+    "axis=z": {
+      "model": "fim:block/compressed_hay_horizontal",
+      "x": 90
+    }
+  }
+}

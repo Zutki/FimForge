@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "fim:barrel_of_beetroots"
+    }
+  },
+  "result": {
+    "item": "fim:compressed_barrel_of_beetroots"
+  }
+}

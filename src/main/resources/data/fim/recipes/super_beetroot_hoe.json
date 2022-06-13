@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "WHW",
+    "CWC"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:beetroot"
+    },
+    "C": {
+      "item": "fim:compressed_barrel_of_beetroots"
+    },
+    "H": {
+      "item": "fim:beetroot_hoe"
+    }
+  },
+  "result": {
+    "item": "fim:super_beetroot_hoe"
+  }
+}

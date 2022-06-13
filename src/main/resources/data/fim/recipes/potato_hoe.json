@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "WHW",
+    "CWC"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:potato"
+    },
+    "C": {
+      "item": "fim:compressed_barrel_of_potatoes"
+    },
+    "H": {
+      "item": "minecraft:diamond_hoe"
+    }
+  },
+  "result": {
+    "item": "fim:potato_hoe"
+  }
+}

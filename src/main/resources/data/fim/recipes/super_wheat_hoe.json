@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "WHW",
+    "CWC"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "C": {
+      "item": "fim:compressed_hay"
+    },
+    "H": {
+      "item": "fim:wheat_hoe"
+    }
+  },
+  "result": {
+    "item": "fim:super_wheat_hoe"
+  }
+}

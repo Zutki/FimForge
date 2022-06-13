@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "fim:barrel_of_carrots",
+    "fim:compressed_barrel_of_carrots",
+    "fim:barrel_of_potatoes",
+    "fim:compressed_barrel_of_potatoes",
+    "fim:barrel_of_beetroots",
+    "fim:compressed_barrel_of_beetroots"
+  ]
+}

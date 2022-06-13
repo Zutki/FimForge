@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "WHW",
+    "CWC"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:carrot"
+    },
+    "C": {
+      "item": "fim:compressed_barrel_of_carrots"
+    },
+    "H": {
+      "item": "fim:carrot_hoe"
+    }
+  },
+  "result": {
+    "item": "fim:super_carrot_hoe"
+  }
+}
